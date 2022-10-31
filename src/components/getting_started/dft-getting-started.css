@@ -1,0 +1,15 @@
+.container-fluid{
+    padding-right: 8rem !important;
+    padding-left: 7rem !important;
+    padding-top: 4rem;
+}
+#local-nav{
+    background-color:white; 
+    position: sticky; 
+    top: 0; 
+    z-index: 6;
+}
+#orderlist{
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
